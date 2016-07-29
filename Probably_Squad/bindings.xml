@@ -1,0 +1,29 @@
+<Bindings>
+    <Binding name="Probably Toggle Custom">
+        ProbablyEngine.buttons.toggle('pally_toggle')
+    </Binding>
+        <Binding name="Probably Toggle Custom">
+        ProbablyEngine.buttons.toggle('burn')
+    </Binding>
+     <Binding name="Probably Toggle Custom">
+        ProbablyEngine.buttons.toggle('conc')
+    </Binding>
+        <Binding name="Probably Toggle Custom">
+        ProbablyEngine.buttons.toggle('seraphim')
+    </Binding>
+        </Binding>
+        <Binding name="Probably Toggle Custom">
+        ProbablyEngine.buttons.toggle('aoe')
+    </Binding>
+            <Binding name="Probably Toggle Custom">
+        ProbablyEngine.buttons.toggle('sock')
+    </Binding>
+        </Binding>
+            <Binding name="Probably Toggle Custom">
+        ProbablyEngine.buttons.toggle('stayalive')
+    </Binding>
+</Bindings>
+
+
+
+

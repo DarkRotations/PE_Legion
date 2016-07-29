@@ -1,0 +1,20 @@
+## Interface: 60100
+## Title: Probably_Squad
+## Dependencies: Probably
+
+rotations\druid\balance.lua
+rotations\druid\balance2.lua
+rotations\mage\frost.lua
+rotations\mage\arcane.lua
+rotations\paladin\protection.lua
+rotations\paladin\protection2.lua
+rotations\paladin\retribution.lua
+rotations\paladin\retribution_seraphim.lua
+rotations\warlock\destruction.lua
+rotations\demonhunter\havoc.lua
+rotations\hunter\marksmanship.lua
+rotations\priest\shadow.lua
+rotations\demonhunter\havoccopy.lua
+
+
+
